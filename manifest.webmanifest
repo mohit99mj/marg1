@@ -1,0 +1,17 @@
+{
+  "name": "Bhakti Marg App",
+  "short_name": "Bhakti Marg",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f2ea",
+  "theme_color": "#cfa13a",
+  "description": "Bhajan, Geeta, Naam Jap and MargMitra spiritual web app.",
+  "icons": [
+    {
+      "src": "assets/icons/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
